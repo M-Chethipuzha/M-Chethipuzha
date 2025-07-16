@@ -1,6 +1,8 @@
 # Hi there, I'm Mathew Thomas 👋
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6546c6f1-8885-4884-a0a2-71e480e2b3ac" alt="Mathew Thomas" width="200"/>
+</p>
 
 Welcome to my GitHub profile!
 
@@ -57,13 +59,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### GitHub Stats
-
-![Your GitHub Stats](https://github.com/M-Chethipuzha/github-readme-stats)
-
-![Top Langs](https://github.com/M-Chethipuzha/github-readme-stats)
-
----
 
 ### Connect with Me
 
