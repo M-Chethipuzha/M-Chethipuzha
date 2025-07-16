@@ -1,7 +1,7 @@
 # Hi there, I'm Mathew Thomas 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6546c6f1-8885-4884-a0a2-71e480e2b3ac" alt="Mathew Thomas" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a54e7af4-1eae-4808-adce-304840b280f3" alt="Mathew Thomas" width="200"/>
 </p>
 
 Welcome to my GitHub profile!
